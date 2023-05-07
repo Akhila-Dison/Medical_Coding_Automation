@@ -1,0 +1,28 @@
+M_Code_Category,M_Code,M_Term,M_Term_Category
+A08,A08.11,Acute Gastroenteritis,Intestinal infection
+A08,A08.19,Acute Gastroenteritis due to small round viruses,Intestinal infection
+A08,A08.2,Adenoiral enteritis,Intestinal infection
+A08,A08.31,Calicivirus enteritis,Intestinal infection
+A08,A08.4,Viral intestinal infection,Intestinal infection
+A07,A07.0,Balantidiasis,Intestinal disease
+A07,A07.1,Giardiasis,Intestinal disease
+A07,A07.2,Cryptosporidiosis,Intestinal disease
+A07,A07.3,Isosporiasis,Intestinal disease
+A07,A07.4,Cyclosporiasis,Intestinal disease
+A07,A07.8,Protozoal intestinal microsporidiosis,Intestinal disease
+A07,A07.9,Protozoal intestinal colitis,Intestinal disease
+A06,A06.0,Acute amebiasis,Amebiasis
+A06,A06.1,Chonic intestinal amebiasis,Amebiasis
+A06,A06.2,Amebic nondysenteric colitis,Amebiasis
+A06,A06.3,Ameboma of intsetine,Amebiasis
+A06,A06.4,Amebic liver abscess,Amebiasis
+A06,A06.5,Amebic lung abscess,Amebiasis
+A06,A06.6,Amebic brain abscess,Amebiasis
+A06,A06.7,Cutaneous amebiasis,Amebiasis
+A06,A06.81,Amebic cyctitis,Amebiasis
+A06,A06.82,Amebic genitourinary infection,Amebiasis
+A06,A06.89,Amebic appendicitis,Amebiasis
+A87,A87.0,Enteroviral meningitis,Viral Meningitis
+A87,A87.1,Adenoviral meningitis,Viral Meningitis
+A87,A87.2,Lymphocytic choriomeningitis,Viral Meningitis
+A90,A90,Dengue Fever,Fever
